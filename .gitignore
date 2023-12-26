@@ -69,11 +69,7 @@ typings/
 .nuxt
 
 # Nuxt generate
-<<<<<<< HEAD
-dist
-=======
-# dist
->>>>>>> 722407f (Initial commit)
+#dist
 
 # vuepress build output
 .vuepress/dist
